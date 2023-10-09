@@ -1,0 +1,49 @@
+name: '🐛 Bug Report'
+description: We broke something, again.
+labels: ['bug', 'needs triage :exclamation:']
+title: '[Bug]: <enter title here>'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thanks for reporting an issue!** Please make sure you read our contributing guidelines first, then fill out the fields below.
+
+  - type: textarea
+    attributes:
+      label: What are the steps to reproduce this issue?
+      placeholder: |
+        1. Open URL https://...
+        2. Click ...
+        3. Type ...
+        4. …
+        5. Click ...
+        6. See error
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: What happens?
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: What were you expecting to happen?
+      description: A clear and concise description of what was supposed to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Paste any relevant logs, error output, etc.
+      description: |
+        Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+
+  - type: textarea
+    id: bug-context
+    attributes:
+      label: Additional context
+      description: Add any other context you can provide about the problem here.
