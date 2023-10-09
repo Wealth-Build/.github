@@ -1,5 +1,5 @@
-name: '🚀 Feature request'
-description: Suggest a new feature / enhancement for this project
+name: '📋 Story request'
+description: Suggest a new Story for this project
 labels: ['enhancement', 'needs triage :exclamation:']
 title: '[Feature]: <enter title here>'
 body:
