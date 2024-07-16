@@ -1,7 +1,7 @@
 name: '🚀 Feature request'
 description: Suggest a new Feature for this project
-labels: ['enhancement', 'needs triage :exclamation:']
-title: '[Epic]: <enter title here>'
+labels: ['enhancement', 'needs triage :exclamation:', 'feature']
+title: '[Feature]: <enter title here>'
 body:
   - type: textarea
     attributes:
