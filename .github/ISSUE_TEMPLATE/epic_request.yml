@@ -1,6 +1,6 @@
 name: '📚 Epic request'
 description: Suggest a new Epic for this project
-labels: ['enhancement', 'needs triage :exclamation:']
+labels: ['enhancement', 'needs triage :exclamation:', 'epic']
 title: '[Epic]: <enter title here>'
 body:
   - type: textarea
