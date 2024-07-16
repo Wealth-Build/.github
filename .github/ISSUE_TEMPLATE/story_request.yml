@@ -1,7 +1,7 @@
 name: '📋 Story request'
 description: Suggest a new Story for this project
 labels: ['enhancement', 'needs triage :exclamation:']
-title: '[Feature]: <enter title here>'
+title: '[Story]: <enter title here>'
 body:
   - type: textarea
     attributes:
