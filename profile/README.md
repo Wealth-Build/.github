@@ -10,6 +10,6 @@ At Wealth Build, we believe that financial literacy is the foundation of a secur
 ## Connect with Us
 
 - **Website:** [www.wealthbuild.ai](https://www.wealthbuild.ai)
-- **Email:** contact@wealthbuild.ai
+- **Email:** admin@wealthbuild.ai
 
 Join us in our journey to revolutionize financial education and empowerment through AI. Let's build a financially literate and secure future together!
